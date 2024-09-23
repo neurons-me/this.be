@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/suiGn/this.be.git"
+    "url": "git+https://github.com/neurons-me/this.be.git"
   },
   "homepage": "https://www.npmjs.com/package/this.be",
   "docs": "https://suiGn.github.io/this.be",
